@@ -10,3 +10,4 @@ Adding a second file to project
 
 Sankalp modified script.r
 
+Gibberish comment. Testing conflict with auto merge.
